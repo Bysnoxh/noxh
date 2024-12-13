@@ -1,2 +1,2 @@
 # noxh
-tipps udn tricks Deutsch/German 
+tipps und tricks Deutsch/German 
